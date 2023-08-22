@@ -19,10 +19,12 @@ When the user is successfully logged in, they are logged into the main homepage
 
 #### Searching and filter listing
 Users will be able to search and filter listings by price by lowest or highest:
+
 ![image](https://github.com/luke510909/Lendly/assets/85315948/4c7f4f20-525a-42ba-92f7-8f58f8107562)
 
 #### Booking Electronics
-Once a user has found a device they want to rent, there will be a checkout process in order for the user to rent a device:
+Once a user has found a device they want to rent, there will be a checkout process in order for the user to rent a device
+
 ![image](https://github.com/luke510909/Lendly/assets/85315948/6ca7bf2c-a722-41a2-bd7e-7fac1f1ec032)
 
 ## Setup
